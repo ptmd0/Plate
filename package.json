@@ -1,0 +1,24 @@
+{
+  "name": "plate",
+  "version": "1.0.0",
+  "description": "React component to render SVG representing microtiter plate.",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptmd0/Plate.git"
+  },
+  "author": "Derek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptmd0/Plate/issues"
+  },
+  "homepage": "https://github.com/ptmd0/Plate#readme"
+}
